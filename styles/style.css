@@ -1,0 +1,17 @@
+.etch {
+    display: flex;
+    justify-content: center;
+}
+
+#grid-container {
+    display: grid;
+    border: 3em solid brown;
+    border-radius: 5%;
+    gap: 1px; /* Adjust the gap between divs as desired */
+    width: 50em; 
+    height: 50em; 
+  }
+  
+  #grid-container div {
+    background-color: #ffffff; /* Set the background color of the divs */
+  }
