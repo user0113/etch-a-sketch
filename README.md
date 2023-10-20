@@ -1,1 +1,1 @@
-etch-a-sketch project thingie
+etch-a-sketch web application
